@@ -1,2 +1,1 @@
-# College_Event_Managent_System
-Web Application
+# CEMS_MERN_PROJECT
